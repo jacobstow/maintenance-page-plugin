@@ -6,7 +6,7 @@
 <!doctype html>
 <head>
 	<meta charset="UTF-8">
-	<title>Coming Soon!</title>
+	<title>Under Maintenance</title>
 	<style>
 		body { text-align: center; padding: 10px; background: #17423b; color: #eee; }
 		h1 { font-size: 50px; }
@@ -40,9 +40,9 @@
 </head>
 <body>
 	<article>
-		<h1>Coming soon!</h1>
+		<h1>Under Maintenance</h1>
 		<div>
-			<p>New website on it way, watch this space..</p>
+			<p>We're just performing some maintenance, back soon..</p>
 		</div>
 	</article>
 </body>
