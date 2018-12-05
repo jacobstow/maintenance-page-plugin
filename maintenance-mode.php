@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Maintenance Mode
  * Plugin URI: https://www.jacobstow.com
- * Description: Displays a coming soon page for anyone who's not logged in.
+ * Description: Displays a maintenance page for anyone who's not logged in.
  * Version: 1.0
  * Author: Jacob Stow
  * Author URI: https://www.jacobstow.com
@@ -16,7 +16,7 @@
 /**
  * Maintenance Page
  *
- * Displays the coming soon page for anyone who's not logged in.
+ * Displays the maintenance page for anyone who's not logged in.
  * The login page gets excluded so that you can login if necessary.
  *
  * @return void
